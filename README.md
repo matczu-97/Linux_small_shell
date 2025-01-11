@@ -1,4 +1,4 @@
-##LINUX SHELL
+## LINUX SHELL
 
 This is s small implementation of a Linux shell.
 This will not work on windows. 
